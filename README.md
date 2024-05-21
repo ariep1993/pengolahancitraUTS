@@ -8,7 +8,9 @@ merubah RGb menjadi HSV:
 Tugas 2
 Histogram
 
-![img](img/Histogram.png)
+![Screenshot (221)](https://github.com/ariep1993/pengolahancitraUTS/assets/115473865/e3c78c96-1878-424d-be2f-9c3e17a4c4e0)
+
+
 
 Tugas 3
 Brignest & Contras
